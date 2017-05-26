@@ -15,7 +15,7 @@ Then run
 npm start
 ```
 
-The server will start  you can view the table at:
+The server will start and you can view the table at:
 ```
 http://localhost:3000/
 ```
